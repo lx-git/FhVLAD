@@ -38,7 +38,7 @@ alpha = 0.5;              % Power Law parameter
 
 %[idx, dis] = yael_nn (centroids, root_s');
 
-%%%%%%%%%%%%% MODIFICATION HERE FROM ME in lieu of Yael_nn () function %%%%%%%%%%%%%%%
+%%%%%%%%%%%%% MODIFICATION in lieu of Yael_nn () function %%%%%%%%%%%%%%%
 
 %% create an assignment matrix, which has the dimensions NumberOfClusters-by-NumberOfDescriptors, % which assigns each descriptor to a cluster.
 % e.g. use kd-trees
